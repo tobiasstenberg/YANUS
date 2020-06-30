@@ -1,6 +1,8 @@
 # YANUS (Yet Another Useless Scheme)
 A VSCode extension based on my personal color scheme and syntax highlighting. Available through the VSCode extension marketplace.
 
+![alt text](https://github.com/tobiasstenberg/YANUS/blob/master/YANUS_scheme.png?raw=true)
+
 To complete the theme open File > Preferences > Settings and type "colorCustomization", then edit Workbench:Color Customizations in settings.json and add the following:
 
 `"workbench.colorCustomizations": {
