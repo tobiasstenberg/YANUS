@@ -3,6 +3,11 @@
     "displayName": "YANUS",
     "description": "Yet Another Useless Scheme",
     "version": "0.0.1",
+    "publisher": "StabbingStereo",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tobiasstenberg/YANUS.git" 
+    },
     "engines": {
         "vscode": "^1.46.0"
     },
