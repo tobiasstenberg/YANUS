@@ -1,0 +1,21 @@
+{
+    "name": "YANUS",
+    "displayName": "YANUS",
+    "description": "Yet Another Useless Scheme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "YANUS",
+                "uiTheme": "vs-dark",
+                "path": "./themes/YANUS-color-theme.json"
+            }
+        ]
+    }
+}
