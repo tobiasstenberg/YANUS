@@ -2,8 +2,8 @@
     "name": "YANUS",
     "displayName": "YANUS",
     "description": "Yet Another Useless Scheme",
-    "version": "1.0.1",
-    "publisher": "StabbingStereo",
+    "version": "1.0.2",
+    "publisher": "Tobias Stenberg",
     "repository": {
         "type": "git",
         "url": "https://github.com/tobiasstenberg/YANUS.git" 
